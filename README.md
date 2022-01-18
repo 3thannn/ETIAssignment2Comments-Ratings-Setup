@@ -33,8 +33,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 I have included all the necessary code in this repository for you to implement the comment and rating microservice into you guy's various different packages.
 
 There are a total of 6 microservices you will need to run:
